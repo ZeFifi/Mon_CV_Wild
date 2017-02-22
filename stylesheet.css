@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(104, 187, 285);
+  width: 960px;
+  margin: 0 auto;
+}
+
+#container {
+
+}
+
+#leftbox {
+  background-color: rgb(9, 30, 45);
+  color: white;
+  float: left;
+  padding: 10px;
+  width: 200px;
+}
+
+#rightbox {
+  float: right;
+}
+
+#experiences-box {
+  background-color: white;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+#studies-box {
+  background-color: white;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.photo-cv {
+  width: 200px;
+  height: 200px;
+}
+
+ul {
+  padding: 15px;
+}
